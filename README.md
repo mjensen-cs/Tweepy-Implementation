@@ -40,4 +40,5 @@ From Microsoft:
 
 ## Helpful Resources:
 docs.tweepy.org
+
 https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/quickstart?pivots=programming-language-python
