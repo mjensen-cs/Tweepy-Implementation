@@ -17,7 +17,7 @@ def authenticate_client():
 
 def sentiment_analysis(client):
 
-    documents = ["Today was pretty ok"]
+    documents = ["Destiny sucks"]
     response = client.analyze_sentiment(documents=documents)[0]
     print("Document Sentiment: {}".format(response.sentiment))
     print("Overall scores: positive={0:.2f}; neutral={1:.2f}; negative={2:.2f} \n".format(
