@@ -1,5 +1,5 @@
-# ai_final
-Final project for CS 6500
+# Tweepy Implementation
+Final project for CS 6500 - AI
 
 ## Overview
 * Implements Tweepy library with Twitter API to collect tweets containing keywords from 5 trending topics on Twitter.
